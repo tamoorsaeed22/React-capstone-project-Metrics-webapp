@@ -56,8 +56,6 @@ This is an app that lets you view the current weather around the world. And a de
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - View all countries weather
 - Search by country
 - Detail by country
@@ -79,7 +77,6 @@ This is an app that lets you view the current weather around the world. And a de
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -185,9 +182,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project so please don't forget to give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
