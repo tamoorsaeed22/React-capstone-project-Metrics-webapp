@@ -69,7 +69,7 @@ This is an app that lets you view the current weather around the world. And a de
 > Please click the link below to check the demo
 
 - [Live Demo Link](https://jazzy-vacherin-1fcd5c.netlify.app/)
-- [Presentation Video Link]
+- [Presentation Video Link](https://www.loom.com/share/5f6eaa431f3d46ac9edde891856bdeb8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
